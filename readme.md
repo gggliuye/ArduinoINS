@@ -3,6 +3,7 @@
 
 This project implements a lightweight, real-time Inertial Navigation System (INS) using Arduino-compatible hardware. Designed for embedded motion tracking, the system fuses data from IMU sensors to estimate position, velocity, and orientation without relying on external signals like GPS.
 
+[!image](assets/traj.png)
 
 ## Our Project Description
 

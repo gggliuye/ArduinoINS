@@ -1,4 +1,3 @@
-// Copyright 2025 DeepMirror Inc. All rights reserved.
 
 #pragma once
 

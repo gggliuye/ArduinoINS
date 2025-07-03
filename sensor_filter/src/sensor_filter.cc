@@ -1,4 +1,3 @@
-// Copyright 2025 DeepMirror Inc. All rights reserved.
 
 #include "sensor_filter.h"
 #include "sensor_filter_mat.h"
